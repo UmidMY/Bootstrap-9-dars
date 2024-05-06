@@ -1,0 +1,32 @@
+body{
+    margin: 5rem;
+}
+.a{
+    border-radius: 5px;
+    padding-left: 5px;
+}
+.bb{
+    height: 2.3rem;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.bgg{
+    background-color: #5c808b;
+}
+.m{
+    margin-left: 27rem;
+}
+.br{
+    border-bottom: 1px solid white;
+}
+.dr{
+    background-color: #5c808b;
+    color: grey;
+    margin-top: 0.4rem;
+}
+.cl{
+    color: #8f97a0;
+}
+.mm{
+    margin-left: 25rem;
+}
